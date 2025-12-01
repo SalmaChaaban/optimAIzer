@@ -82,6 +82,8 @@ While functional, this project has room for improvement, which may include:
 6. Run the notebook (either cell by cell or all at once)
 
 
-# Output Report Preview
+## Output Report Preview
 
 ![Output Report Preview](output_report.png)
+
+(Outputs have been removed from the repository for privacy)
